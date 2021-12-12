@@ -1,2 +1,2 @@
 # Demineur-CPP
-Demineur in CPP using Qt5 libraty
+Demineur in CPP using Qt5 library
