@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>case_bombe.png</file>
+        <file>case_bombe_marked.png</file>
+        <file>case_cache.png</file>
+        <file>case_check0.png</file>
+        <file>case_check1.png</file>
+        <file>case_check2.png</file>
+        <file>case_check3.png</file>
+        <file>case_check4.png</file>
+        <file>case_check5.png</file>
+        <file>case_check6.png</file>
+        <file>case_check7.png</file>
+        <file>case_check8.png</file>
+    </qresource>
+</RCC>
